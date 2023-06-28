@@ -7,7 +7,7 @@
 
 - 💬 Pour toute question **https://discord.gg/5Gn9bTvBfJ**
 
-- ⚡ Fun fact **Nous sommes des 3 frères réunie en une 1 équipe**
+- ⚡ Fun fact **Nous sommes 3 frères réunie en une seule équipe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
