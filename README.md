@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Nous somme La Fraterie</h1>
 <h3 align="center">Nous sommes des passionnés d'informatique et de codage.</h3>
 
-- 🔭 Nous travaillons sur **Visuel Studio Code** et **PHPStorm**.
+- 🔭 Nous travaillons sur **Visual Studio Code** et **PHPStorm**.
 
 - 👯 Nous sommes en collaboration avec [Central Héberge](https://discord.gg/eHY8V3MhFn).
 
